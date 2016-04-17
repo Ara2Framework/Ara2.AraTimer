@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ara2, Version=1.2.5946.20635, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Ara2.1.2.5946.20635\lib\net40\Ara2.dll</HintPath>
+    <Reference Include="Ara2, Version=1.2.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ara2.1.2.6.0\lib\net40\Ara2.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
